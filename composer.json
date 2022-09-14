@@ -1,0 +1,10 @@
+{
+    "name": "moein/mvc_framework",
+    "authors": [
+        {
+            "name": "Moein",
+            "email": "afsharimoein79@gmail.com"
+        }
+    ],
+    "require": {}
+}
