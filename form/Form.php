@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace moeinafshari\phpmvc\form;
 
-use app\core\Model;
+use moeinafshari\phpmvc\Model;
 
 class Form
 {

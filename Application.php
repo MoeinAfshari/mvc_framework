@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace moeinafshari\phpmvc;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use moeinafshari\phpmvc\db\Database;
+use moeinafshari\phpmvc\db\DbModel;
 
 class Application
 {

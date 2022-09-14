@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace moeinafshari\phpmvc\db;
 
-use app\core\Application;
-use app\core\Model;
+use moeinafshari\phpmvc\Application;
+use moeinafshari\phpmvc\Model;
 use app\models\User;
 
 abstract class DbModel extends Model
